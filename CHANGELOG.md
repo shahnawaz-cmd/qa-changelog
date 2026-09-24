@@ -1,8 +1,38 @@
 # 📋 QA Production Changelog & Verification Logs
 
-This document tracks all QA-verified defect fixes, enhancements, and production release sign-offs across **Classic Decoder (CD)**, **CWA MVP**, and **DVH**.
+This document tracks all QA-verified defect fixes, enhancements, and production release sign-offs across **Classic Decoder (CD)**, **CWA MVP**, **DVH**, and **SCC**.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and adheres to professional QA verification standards.
+
+---
+
+## [prod-scc-v1.5.0] - 2026-09-24
+
+### 🚀 Release Overview
+- **Deployment Date:** September 24, 2026
+- **Environments Tested:** DEV (Validated) ➡️ PROD (Verified)
+- **Properties Affected:** SCC
+- **Impacted Area:** Email Cache Flow & Checkout Access Records Multi-Click
+- **QA Sign-off:** Shahnawaz (QA)
+- **Overall QA Verdict:** 🟢 **PASS — Verified in Production**
+
+---
+
+### 🐛 Resolved Defects & Bug Fixes
+
+#### [[V2-5751](https://empirepixel.atlassian.net/browse/V2-5751)] SCC: Email Cache Flow & Checkout Multi-Click Fixes
+* **Ticket ID:** [V2-5751](https://empirepixel.atlassian.net/browse/V2-5751)
+* **Property / Area:** SCC — Preview & Checkout Flow
+* **Resolved Issues:**
+  1. **Email Cache Flow in SCC:** User email was not cached when entered on preview. If the user navigated to checkout and came back, the email was cleared. *(Resolved — user email is now properly cached and persisted across preview and checkout navigation)*.
+  2. **Multi-Click on Access Records / Checkout:** Rapidly multi-clicking "Access Records" triggered multiple duplicate network requests during checkout, risking redundant processing. *(Resolved — button click debouncing and request lock implemented to prevent duplicate calls)*.
+* **Testing & Verification Scope:**
+  - **Email Caching:** Entered email on preview screen, navigated to checkout, returned to preview; confirmed email input remained populated.
+  - **Aggressive Multi-Click Testing:** Performed rapid successive clicks on the "Access Records" CTA during checkout; verified only a single API request is dispatched with redundant clicks blocked.
+* **Production Verification Status:**
+  - ✅ **Email cache flow verified in live environment**
+  - ✅ **Checkout multi-click debouncing verified**
+* **Open Issues / Blockers:** None (0 open issues).
 
 ---
 
