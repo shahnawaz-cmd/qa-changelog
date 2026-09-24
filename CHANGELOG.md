@@ -1,8 +1,40 @@
 # 📋 QA Production Changelog & Verification Logs
 
-This document tracks all QA-verified defect fixes, enhancements, and production release sign-offs for **Classic Decoder (CD)**.
+This document tracks all QA-verified defect fixes, enhancements, and production release sign-offs for **Classic Decoder (CD) & CWA MVP**.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and adheres to professional QA verification standards.
+
+---
+
+## [v1.2.0] - 2026-09-24
+
+### 🚀 Release Overview
+- **Deployment / Update Date:** September 10, 2026
+- **Environments Tested:** DEV (Validated) ➡️ PROD (Verified)
+- **Properties Affected:** CWA MVP
+- **Impacted Area:** VIN Decoding Engine, Streaming Flow, Checkout & Member Area
+- **QA Sign-off:** Shahnawaz (QA)
+- **Overall QA Verdict:** 🟢 **PROD CIT — PASSED**
+
+---
+
+### 🐛 Resolved Defects & Production Bug Fixes
+
+#### [[V2-5797](https://empirepixel.atlassian.net/browse/V2-5797)] Fix Streaming Flow for CWA MVP
+* **Ticket ID:** [V2-5797](https://empirepixel.atlassian.net/browse/V2-5797)
+* **Property / Area:** CWA MVP — Streaming Flow & Member Area Checkout
+* **Defect Summary & Key Fixes:**
+  1. **Issue 1 (Home Page VIN Decode):** Decoding a classic VIN from the home page incorrectly landed on a non-streaming confirmation page instead of the streaming preview page with confirmation. *(Resolved)*
+  2. **Issue 2 (Direct URL VIN Execution):** Appending a classic VIN directly in the URL and executing failed to decode the VIN ([Jam Session Proof](https://jam.dev/c/4a92d727-b48f-47f1-b702-c8d885ecd33b)). *(Resolved)*
+  3. **Issue 3 (Member Area Credit Checkout):** Purchasing credits (Preview V1 & V2) loaded in non-streaming mode instead of streaming. Resolved pre-release flaky bug where Stripe session API succeeded but required page refresh to complete.
+* **Testing & Verification Scope (Covered Parts):**
+  - **Streaming Flow:** Full end-to-end streaming preview validated on home page decode and direct URL navigation.
+  - **Add to Garage Button:** Successfully verified click action, state update, and vehicle persistence.
+  - **Streaming Flow Update on PV (Preview):** Confirmed real-time data streaming on Preview screens.
+  - **Stripe Checkout:** Verified Stripe payment intent flow from preview ➡️ checkout on DTS; payment completes without refresh.
+* **Production Verification Status:**
+  - **PROD CIT:** ✅ **PASSED** (Live environment verification confirmed).
+* **Open Issues / Blockers:** None (0 open issues).
 
 ---
 
