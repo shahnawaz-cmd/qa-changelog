@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
-## [v1.3.0] - 2026-09-24
+## [prod-dvh-v1.3.0] - 2026-09-24
 
 ### 🚀 Release Overview
 - **Deployment / Update Date:** September 04, 2026
