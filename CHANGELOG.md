@@ -6,6 +6,35 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [prod-all-v1.6.0] - 2026-09-24
+
+### 🚀 Release Overview
+- **Deployment Date:** September 24, 2026
+- **Environments Tested:** DEV (Validated) ➡️ PROD (Verified)
+- **Properties Affected:** All Properties (CD, CWA, DVH, SCC)
+- **Impacted Area:** Mobile Preview Pages / Call-to-Action (CTA) Priority Hierarchy
+- **QA Sign-off:** Shahnawaz (QA)
+- **Overall QA Verdict:** 🟢 **PASS — Verified in Production**
+
+---
+
+### 🚀 Enhancements & UI Updates
+
+#### [[V2-5828](https://empirepixel.atlassian.net/browse/V2-5828)] Update CTA Button Priority on Mobile Views on Preview Pages (All Properties)
+* **Ticket ID:** [V2-5828](https://empirepixel.atlassian.net/browse/V2-5828)
+* **Properties Affected:** All Properties (Classic Decoder, CWA, DVH, SCC)
+* **Change Summary:** 
+  Updated CTA button hierarchy and visual priority on mobile viewports across all preview pages to optimize primary user actions, button ordering, and mobile usability.
+* **Testing & Verification Scope:**
+  - **Cross-Property Verification:** Validated updated CTA button placement and design across preview pages on CD, CWA, DVH, and SCC.
+  - **Mobile Responsive Testing:** Tested across mobile screen sizes (iOS Safari & Android Chrome); verified CTA tap target sizing and prominence.
+  - **Interaction Flow:** Confirmed CTA taps direct users to the intended checkout/conversion paths seamlessly.
+* **Production Verification Status:**
+  - ✅ **CTA priority updated & verified across all properties in live Production**
+* **Open Issues / Blockers:** None (0 open issues).
+
+---
+
 ## [prod-scc-v1.5.0] - 2026-09-24
 
 ### 🚀 Release Overview
