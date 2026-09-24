@@ -1,8 +1,38 @@
 # 📋 QA Production Changelog & Verification Logs
 
-This document tracks all QA-verified defect fixes, enhancements, and production release sign-offs for **Classic Decoder (CD) & CWA MVP**.
+This document tracks all QA-verified defect fixes, enhancements, and production release sign-offs across **Classic Decoder (CD)**, **CWA MVP**, and **DVH**.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and adheres to professional QA verification standards.
+
+---
+
+## [v1.3.0] - 2026-09-24
+
+### 🚀 Release Overview
+- **Deployment / Update Date:** September 04, 2026
+- **Environments Tested:** DEV (Validated via CIT)
+- **Properties Affected:** DVH (Detailed Vehicle History)
+- **Impacted Area:** Order Management & Referral (Ref) Attribution
+- **QA Sign-off:** Shahnawaz (QA)
+- **Overall QA Verdict:** 🟢 **DEV CIT — PASSED**
+
+---
+
+### 🐛 Resolved Defects & Bug Fixes
+
+#### [[V2-5795](https://empirepixel.atlassian.net/browse/V2-5795)] Fix Missing Ref Details in DVH Orders
+* **Ticket ID:** [V2-5795](https://empirepixel.atlassian.net/browse/V2-5795)
+* **Property / Area:** DVH — Order Processing & Referral Attribution
+* **Defect Summary:** 
+  Referral (Ref) details were missing from generated DVH orders, resulting in lost referral attribution on customer checkouts.
+* **Testing & Verification Scope (Flow Verification Summary):**
+  - **URL-Based Access:** Validated ref parameter persistence when accessing via referral links.
+  - **Manual Cookie Injection:** Verified cookie capture, session persistence, and order payload attribution.
+  - **Streaming Flow:** Successfully validated vehicle report streaming flow with active referral attribution.
+  - **Payment Gateways:** Confirmed successful checkout transactions with ref details retained on both **PayPal** and **Stripe**.
+* **QA Verification Status:**
+  - **DEV CIT:** ✅ **PASSED** (Ref tracking, streaming, and checkout validated).
+* **Open Issues / Blockers:** None (0 open issues).
 
 ---
 
