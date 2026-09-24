@@ -6,6 +6,39 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [prod-cd-v1.4.0] - 2026-09-24
+
+### 🚀 Release Overview
+- **Deployment / Update Date:** September 02, 2026
+- **Environments Tested:** DEV (Validated) ➡️ PROD (Verified)
+- **Properties Affected:** Classic Decoder (CD) Web & App
+- **Impacted Area:** Checkout & Coupons, Pre-VIN Check Flow UI, Currency Revisit Banner
+- **QA Sign-off:** Shahnawaz (QA)
+- **Overall QA Verdict:** 🟢 **PASS — Verified in Production**
+
+---
+
+### 🐛 Resolved Defects & Bug Fixes
+
+#### [[V2-5752](https://empirepixel.atlassian.net/browse/V2-5752)] CD Web & App Bugs Fixes
+* **Ticket ID:** [V2-5752](https://empirepixel.atlassian.net/browse/V2-5752)
+* **Property / Area:** Classic Decoder (CD) — Web & App
+* **Resolved Issues:**
+  1. **Coupon Reset Issue:** On checkout, applying a coupon, navigating back to preview, and returning to checkout caused the applied coupon to reset. *(Fixed & Verified — coupon persistence retained across navigation)*.
+  2. **Alignment & Overflow UI Defects:** Pre-VIN check flow page had searching text alignment issues and email popup field overflow on small viewports (e.g., 360px). *(Fixed & Verified — responsive styling and text alignment corrected)*.
+  3. **Revisit Banner Currency Sign:** Revisit banner displayed cached currency rather than the user's updated location currency. *(Fixed & Verified — dynamic location-based currency rendered accurately)*.
+* **Testing & Verification Scope:**
+  - **Coupon State:** Verified coupon application and state persistence when navigating between checkout and preview screens.
+  - **Responsive UI:** Tested pre-VIN check flow and email popup modal on low viewports (360px) across mobile browsers; no layout shifts or input overflow.
+  - **Currency Localization:** Verified revisit banner currency symbol updates dynamically according to location settings.
+* **Production Verification Status:**
+  - ✅ **Revisit banner currency sign fixed & verified**
+  - ✅ **Pre-VIN check flow UI fix verified**
+  - ✅ **Coupon reset functionality corrected & verified**
+* **Open Issues / Blockers:** None (0 open issues).
+
+---
+
 ## [prod-dvh-v1.3.0] - 2026-09-24
 
 ### 🚀 Release Overview
