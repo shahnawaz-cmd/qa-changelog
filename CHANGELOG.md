@@ -36,7 +36,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
-## [v1.2.0] - 2026-09-24
+## [prod-cwa-v1.2.0] - 2026-09-24
 
 ### 🚀 Release Overview
 - **Deployment / Update Date:** September 10, 2026
