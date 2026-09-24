@@ -6,6 +6,36 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [v1.1.0] - 2026-09-24
+
+### 🚀 Release Overview
+- **Deployment Date:** September 24, 2026
+- **Environments Tested:** DEV (Validated) ➡️ PROD (Verified)
+- **Properties Affected:** Classic Decoder (CD) / CWA
+- **Impacted Area:** Payment Gateway / Digital Wallets (Apple Pay & Google Pay)
+- **QA Sign-off:** Shahnawaz (QA)
+- **Overall QA Verdict:** 🟡 **CONDITIONAL PASS — GPay Verified / Apple Pay Cloud-Restricted**
+
+---
+
+### 🐛 Resolved Defects & Production Bug Fixes
+
+#### [[V2-5823](https://empirepixel.atlassian.net/browse/V2-5823)] Fix APPLEPAY & GPAY in CD/CWA
+* **Ticket ID:** [V2-5823](https://empirepixel.atlassian.net/browse/V2-5823)
+* **Properties / Area:** Classic Decoder (CD) / CWA — Payment Module
+* **Defect Summary:** 
+  Apple Pay and Google Pay (GPay) failed to open properly for all users. The wallet popup opened and immediately closed.
+* **Testing & Verification Scope:**
+  1. **Google Pay (GPay):** Validated on DEV and verified on PROD. Cross-browser testing completed across desktop and mobile; wallet modal opens and payment completes successfully.
+  2. **Apple Pay:** Tested on DEV; unable to complete full transaction verification on cloud sessions due to LambdaTest restrictions (card credentials cannot be provisioned in cloud environments).
+* **Production Verification Status:**
+  - **GPay:** ✅ **Verified in Production** (Tested across browsers, working as expected).
+  - **Apple Pay:** ⚠️ **Pending Physical Device Validation** (LambdaTest restricted; requires real hardware with configured Apple Wallet).
+* **Open Issues / Blockers:**
+  - **1 Open Item:** Apple Pay testing unverified on cloud testing grid (requires physical device verification).
+
+---
+
 ## [v1.0.0] - 2026-09-24
 
 ### 🚀 Release Overview
