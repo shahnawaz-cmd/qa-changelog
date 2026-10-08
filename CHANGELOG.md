@@ -16,6 +16,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 ---
 
 ### **September 2026**
+* **Sept 29, 2026** — Fixed leading space in VIN breaking sticker generation flow (%20 in URL) across all production properties [[V2-5841](https://empirepixel.atlassian.net/browse/V2-5841)].
 * **Sept 24, 2026** — Resolved missing referral (`ref`) attribution on DVH orders across PayPal and Stripe checkouts [[V2-5795](https://empirepixel.atlassian.net/browse/V2-5795)].
 * **Sept 23, 2026** — Updated CTA button hierarchy and visual priority on mobile views across all preview pages (CD, CWA, DVH, SCC) [[V2-5828](https://empirepixel.atlassian.net/browse/V2-5828)].
 * **Sept 22, 2026** — Fixed 17-character VIN window sticker generation failover flow break when Forum API fails in Classic Decoder [[V2-5830](https://empirepixel.atlassian.net/browse/V2-5830)].
