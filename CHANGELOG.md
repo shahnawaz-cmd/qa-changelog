@@ -35,6 +35,8 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Sept 22, 2026** — Fixed 17-character VIN window sticker generation failover flow break when Forum API fails in Classic Decoder [[V2-5830](https://empirepixel.atlassian.net/browse/V2-5830)].
 * **Sept 22, 2026** — Resolved digital wallet modal closing issue for Google Pay & Apple Pay in CD and CWA [[V2-5823](https://empirepixel.atlassian.net/browse/V2-5823)].
 * **Sept 21, 2026** — Migrated DVH license plate pages [[V2-5802](https://empirepixel.atlassian.net/browse/V2-5802)].
+* **Sept 16, 2026** — DVH: Migrated VIN check state & country pages [[V2-5788](https://empirepixel.atlassian.net/browse/V2-5788)].
+* **Sept 16, 2026** — DVH: Built core reusable UI components [[V2-5787](https://empirepixel.atlassian.net/browse/V2-5787)].
 * **Sept 10, 2026** — Fixed CWA MVP streaming flow for home page VIN decode, direct URL execution, Add to Garage, and Stripe credit checkout [[V2-5797](https://empirepixel.atlassian.net/browse/V2-5797)].
 * **Sept 08, 2026** — Fixed coupon state persistence, 360px pre-VIN layout overflow, and location-based revisit currency banner in Classic Decoder Web & App [[V2-5752](https://empirepixel.atlassian.net/browse/V2-5752)].
 * **Sept 04, 2026** — Integrated Cloudflare clear cache API for automated cache purging [[V2-5792](https://empirepixel.atlassian.net/browse/V2-5792)].
