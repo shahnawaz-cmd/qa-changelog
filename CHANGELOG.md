@@ -1,6 +1,6 @@
 # 📋 QA Production Changelog & Verification Logs
 
-This document tracks all QA-verified defect fixes, enhancements, and production release sign-offs across **Classic Decoder (CD)**, **CWA MVP**, **DVH**, **SCC**, **KOD**, and **Toyota**.
+This document tracks all QA-verified defect fixes, enhancements, and production release sign-offs across **Classic Decoder (CD)**, **CWA MVP**, **DVH**, **SCC**, **KOD (Dodge)**, and **Toyota**.
 
 ---
 
@@ -10,7 +10,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Oct 08, 2026** — Fixed coupon desync issue and pending order handling for dual-tab transactions in SCC [[V2-5829](https://empirepixel.atlassian.net/browse/V2-5829)].
 * **Oct 07, 2026** — Toyota: Migration to new codebase — verified payload and UI mapping with database [[V2-5754](https://empirepixel.atlassian.net/browse/V2-5754)].
 * **Oct 05, 2026** — Fixed UVC Report QR URL.
-* **Oct 01, 2026** — KOD: Migration to new codebase — verified payload and UI mapping with database [[V2-5754](https://empirepixel.atlassian.net/browse/V2-5754)].
+* **Oct 01, 2026** — KOD (Dodge): Migration to new codebase — verified payload and UI mapping with database [[V2-5754](https://empirepixel.atlassian.net/browse/V2-5754)].
 
 ---
 
