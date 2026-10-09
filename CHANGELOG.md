@@ -1,6 +1,6 @@
 # 📋 QA Production Changelog & Verification Logs
 
-This document tracks all QA-verified defect fixes, enhancements, and production release sign-offs across **Classic Decoder (CD)**, **CWA MVP**, **DVH**, **SCC**, **KOD (Dodge)**, **Toyota**, **VHREU**, **IVR**, **MVL**, and **VDB**.
+This document tracks all QA-verified defect fixes, enhancements, and production release sign-offs across **Classic Decoder (CD)**, **CWA MVP**, **DVH**, **SCC**, **KOD (Dodge)**, **Toyota**, **VHREU**, **IVR**, **MVL**, **VDB**, and **VNCA**.
 
 ---
 
@@ -13,6 +13,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Oct 07, 2026** — Toyota: Migration to new codebase — verified payload and UI mapping with database [[V2-5754](https://empirepixel.atlassian.net/browse/V2-5754)].
 * **Oct 06, 2026** — VDB: Updated sample in license plate API, removed legacy license plate endpoint, and added custom request handling [[V2-5710](https://empirepixel.atlassian.net/browse/V2-5710)].
 * **Oct 06, 2026** — Updated popup behavior on preview pages [[V2-5852](https://empirepixel.atlassian.net/browse/V2-5852)].
+* **Oct 05, 2026** — VNCA: Deployed French localization and translation updates [[V2-5708](https://empirepixel.atlassian.net/browse/V2-5708)].
 * **Oct 05, 2026** — VDB: Integrated CAD version of repairs API in VDB portal [[V2-5849](https://empirepixel.atlassian.net/browse/V2-5849)].
 * **Oct 05, 2026** — Fixed UVC Report QR URL.
 * **Oct 02, 2026** — VDB: Integrated Fluid Specs API [[V2-5848](https://empirepixel.atlassian.net/browse/V2-5848)].
