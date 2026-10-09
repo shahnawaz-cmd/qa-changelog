@@ -55,6 +55,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Sept 20, 2026** — DVH: Built core reusable UI components [[V2-5787](https://empirepixel.atlassian.net/browse/V2-5787)].
 * **Sept 18, 2026** — Azure & decoding engine technical support and stability maintenance (Sept 10–18) [[V2-5803](https://empirepixel.atlassian.net/browse/V2-5803)].
 * **Sept 18, 2026** — VDB: Investigated and resolved 429 rate limit errors from unjustified VDB API calls across properties [[V2-5807](https://empirepixel.atlassian.net/browse/V2-5807)].
+* **Sept 17, 2026** — VDB: Updated email notification subjects generated from code [[V2-5699](https://empirepixel.atlassian.net/browse/V2-5699)].
 * **Sept 16, 2026** — Updated payload configuration to allow multiple child nestings and crawl support for header/footer components [[V2-5732](https://empirepixel.atlassian.net/browse/V2-5732)].
 * **Sept 10, 2026** — Added 'Add to Garage' button on preview pages with register user prompt flow [[V2-5755](https://empirepixel.atlassian.net/browse/V2-5755)].
 * **Sept 10, 2026** — CWA MVP: Fixed streaming flow issues across home page decode, direct URL execution, and member area checkout [[V2-5799](https://empirepixel.atlassian.net/browse/V2-5799)].
