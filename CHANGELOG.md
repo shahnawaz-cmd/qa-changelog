@@ -13,8 +13,11 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Oct 07, 2026** — Toyota: Migration to new codebase — verified payload and UI mapping with database [[V2-5754](https://empirepixel.atlassian.net/browse/V2-5754)].
 * **Oct 06, 2026** — VDB: Updated sample in license plate API, removed legacy license plate endpoint, and added custom request handling [[V2-5710](https://empirepixel.atlassian.net/browse/V2-5710)].
 * **Oct 06, 2026** — Updated popup behavior on preview pages [[V2-5852](https://empirepixel.atlassian.net/browse/V2-5852)].
+* **Oct 05, 2026** — VDB: Integrated CAD version of repairs API in VDB portal [[V2-5849](https://empirepixel.atlassian.net/browse/V2-5849)].
 * **Oct 05, 2026** — Fixed UVC Report QR URL.
+* **Oct 02, 2026** — VDB: Integrated Fluid Specs API [[V2-5848](https://empirepixel.atlassian.net/browse/V2-5848)].
 * **Oct 02, 2026** — Classic Decoder: Implemented SEO strategy updates [[V2-5611](https://empirepixel.atlassian.net/browse/V2-5611)].
+* **Oct 01, 2026** — Classic Decoder: Added Car Values (Classic) search by VIN and YMMT [[V2-5313](https://empirepixel.atlassian.net/browse/V2-5313)].
 * **Oct 01, 2026** — KOD (Dodge): Migration to new codebase — verified payload and UI mapping with database [[V2-5754](https://empirepixel.atlassian.net/browse/V2-5754)].
 
 ---
