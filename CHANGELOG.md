@@ -48,6 +48,8 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Sept 10, 2026** — CWA MVP: Fixed streaming flow issues across home page decode, direct URL execution, and member area checkout [[V2-5799](https://empirepixel.atlassian.net/browse/V2-5799)].
 * **Sept 10, 2026** — Fixed CWA MVP streaming flow for home page VIN decode, direct URL execution, Add to Garage, and Stripe credit checkout [[V2-5797](https://empirepixel.atlassian.net/browse/V2-5797)].
 * **Sept 08, 2026** — Released IVR Next.js service [[V2-5780](https://empirepixel.atlassian.net/browse/V2-5780)].
+* **Sept 04, 2026** — Classic Decoder: Added 17-digit VIN support for build sheet and window sticker generation [[V2-5670](https://empirepixel.atlassian.net/browse/V2-5670)].
+* **Sept 04, 2026** — Classic Decoder: Added 17-digit VIN decode and report generation in Members Area [[V2-5658](https://empirepixel.atlassian.net/browse/V2-5658)].
 * **Sept 04, 2026** — Classic Decoder: Updated US preview page layout and components [[V2-5791](https://empirepixel.atlassian.net/browse/V2-5791)].
 * **Sept 04, 2026** — Integrated Cloudflare clear cache API for automated cache purging [[V2-5792](https://empirepixel.atlassian.net/browse/V2-5792)].
 * **Sept 04, 2026** — Fixed email cache persistence across preview/checkout and debounced multi-click duplicate requests on Access Records CTA in SCC [[V2-5751](https://empirepixel.atlassian.net/browse/V2-5751)].
