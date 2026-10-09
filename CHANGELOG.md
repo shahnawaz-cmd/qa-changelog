@@ -12,6 +12,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Oct 07, 2026** — Toyota: Migration to new codebase — verified payload and UI mapping with database [[V2-5754](https://empirepixel.atlassian.net/browse/V2-5754)].
 * **Oct 06, 2026** — Updated popup behavior on preview pages [[V2-5852](https://empirepixel.atlassian.net/browse/V2-5852)].
 * **Oct 05, 2026** — Fixed UVC Report QR URL.
+* **Oct 02, 2026** — Classic Decoder: Implemented SEO strategy updates [[V2-5611](https://empirepixel.atlassian.net/browse/V2-5611)].
 * **Oct 01, 2026** — KOD (Dodge): Migration to new codebase — verified payload and UI mapping with database [[V2-5754](https://empirepixel.atlassian.net/browse/V2-5754)].
 
 ---
@@ -22,6 +23,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Sept 30, 2026** — Added new upsell images/assets for window sticker and report across all properties (streaming and non-streaming) [[V2-5846](https://empirepixel.atlassian.net/browse/V2-5846)].
 * **Sept 30, 2026** — VHREU CVW + Shared properties additional integration [[V2-5731](https://empirepixel.atlassian.net/browse/V2-5731)].
 * **Sept 30, 2026** — Classic Decoder: Implemented SEO strategy updates (Sprint 100) [[V2-5730](https://empirepixel.atlassian.net/browse/V2-5730)].
+* **Sept 29, 2026** — Fixed checkout primary colors not updating dynamically across properties [[V2-5735](https://empirepixel.atlassian.net/browse/V2-5735)].
 * **Sept 29, 2026** — Non-streaming: Fixed country flag display issue across properties [[V2-5736](https://empirepixel.atlassian.net/browse/V2-5736)].
 * **Sept 29, 2026** — Fixed preview-analytics failing to record all records [[V2-5798](https://empirepixel.atlassian.net/browse/V2-5798)].
 * **Sept 29, 2026** — Fixed VIN mapping error in streaming flow [[V2-5825](https://empirepixel.atlassian.net/browse/V2-5825)].
