@@ -44,6 +44,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Sept 20, 2026** — DVH: Migrated VIN check state & country pages [[V2-5788](https://empirepixel.atlassian.net/browse/V2-5788)].
 * **Sept 20, 2026** — DVH: Built core reusable UI components [[V2-5787](https://empirepixel.atlassian.net/browse/V2-5787)].
 * **Sept 16, 2026** — Updated payload configuration to allow multiple child nestings and crawl support for header/footer components [[V2-5732](https://empirepixel.atlassian.net/browse/V2-5732)].
+* **Sept 10, 2026** — Added 'Add to Garage' button on preview pages with register user prompt flow [[V2-5755](https://empirepixel.atlassian.net/browse/V2-5755)].
 * **Sept 10, 2026** — CWA MVP: Fixed streaming flow issues across home page decode, direct URL execution, and member area checkout [[V2-5799](https://empirepixel.atlassian.net/browse/V2-5799)].
 * **Sept 10, 2026** — Fixed CWA MVP streaming flow for home page VIN decode, direct URL execution, Add to Garage, and Stripe credit checkout [[V2-5797](https://empirepixel.atlassian.net/browse/V2-5797)].
 * **Sept 08, 2026** — Released IVR Next.js service [[V2-5780](https://empirepixel.atlassian.net/browse/V2-5780)].
