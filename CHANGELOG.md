@@ -59,6 +59,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 ### **August 2026**
 * **Aug 31, 2026** — CWA MVP: Released Members Area V2 with Garage support [[V2-5614](https://empirepixel.atlassian.net/browse/V2-5614)].
 * **Aug 31, 2026** — Integrated Decode API for classic VINs [[V2-5533](https://empirepixel.atlassian.net/browse/V2-5533)].
+* **Aug 20, 2026** — SCC: Resolved App Store production application defects and store compliance issues [[V2-5675](https://empirepixel.atlassian.net/browse/V2-5675)].
 * **Aug 20, 2026** — MVL Blog: Ensured blog is in sync with latest blog updates [[V2-5685](https://empirepixel.atlassian.net/browse/V2-5685)].
 * **Aug 20, 2026** — Preview check and review sign-off [[V2-5683](https://empirepixel.atlassian.net/browse/V2-5683)].
 * **Aug 20, 2026** — Resolved general production issues across properties [[V2-5737](https://empirepixel.atlassian.net/browse/V2-5737)].
