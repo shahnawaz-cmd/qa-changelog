@@ -11,6 +11,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Oct 08, 2026** — Fixed currency not updating on preview page due to proxy issue in CWA MVP [[V2-5858](https://empirepixel.atlassian.net/browse/V2-5858)].
 * **Oct 08, 2026** — Fixed coupon desync issue and pending order handling for dual-tab transactions in SCC [[V2-5829](https://empirepixel.atlassian.net/browse/V2-5829)].
 * **Oct 07, 2026** — Toyota: Migration to new codebase — verified payload and UI mapping with database [[V2-5754](https://empirepixel.atlassian.net/browse/V2-5754)].
+* **Oct 06, 2026** — VDB: Made Engine Oil API publicly accessible with updated documentation [[V2-5703](https://empirepixel.atlassian.net/browse/V2-5703)].
 * **Oct 06, 2026** — VDB: Updated sample in license plate API, removed legacy license plate endpoint, and added custom request handling [[V2-5710](https://empirepixel.atlassian.net/browse/V2-5710)].
 * **Oct 06, 2026** — Updated popup behavior on preview pages [[V2-5852](https://empirepixel.atlassian.net/browse/V2-5852)].
 * **Oct 05, 2026** — VNCA: Deployed French localization and translation updates [[V2-5708](https://empirepixel.atlassian.net/browse/V2-5708)].
@@ -25,6 +26,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 ---
 
 ### **September 2026**
+* **Sept 30, 2026** — KOD (Dodge): Fixed missing coupon banner across sub-pages and restored revisit currency banner [[V2-5709](https://empirepixel.atlassian.net/browse/V2-5709)].
 * **Sept 30, 2026** — CNV: Released streaming flow preview page [[V2-5827](https://empirepixel.atlassian.net/browse/V2-5827)].
 * **Sept 30, 2026** — Migrated remaining DVH content pages [[V2-5843](https://empirepixel.atlassian.net/browse/V2-5843)].
 * **Sept 30, 2026** — Completed DVH blog migration [[V2-5842](https://empirepixel.atlassian.net/browse/V2-5842)].
