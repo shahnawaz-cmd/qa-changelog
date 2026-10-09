@@ -82,3 +82,4 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Aug 20, 2026** — Preview check and review sign-off [[V2-5683](https://empirepixel.atlassian.net/browse/V2-5683)].
 * **Aug 20, 2026** — Resolved general production issues across properties [[V2-5737](https://empirepixel.atlassian.net/browse/V2-5737)].
 * **Aug 20, 2026** — Configured changelog on all sites to route outside domain [[V2-5738](https://empirepixel.atlassian.net/browse/V2-5738)].
+* **Aug 18, 2026** — Fixed homepage redirect HTTP status code across production properties [[V2-5612](https://empirepixel.atlassian.net/browse/V2-5612)].
