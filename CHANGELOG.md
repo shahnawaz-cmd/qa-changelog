@@ -67,7 +67,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Sept 04, 2026** — Integrated Cloudflare clear cache API for automated cache purging [[V2-5792](https://empirepixel.atlassian.net/browse/V2-5792)].
 * **Sept 04, 2026** — Fixed email cache persistence across preview/checkout and debounced multi-click duplicate requests on Access Records CTA in SCC [[V2-5751](https://empirepixel.atlassian.net/browse/V2-5751)].
 * **Sept 03, 2026** — Fixed coupon state persistence, 360px pre-VIN layout overflow, and location-based revisit currency banner in Classic Decoder Web & App [[V2-5752](https://empirepixel.atlassian.net/browse/V2-5752)].
-* **Sept 02, 2026** — Fixed empty window sticker issue (missing colors and packages) in Classic Decoder [[V2-5656](https://empirepixel.atlassian.net/browse/V2-5656)].
+* **Sept 02, 2026** — Fixed empty window sticker issue (missing colors and packages) across production properties [[V2-5656](https://empirepixel.atlassian.net/browse/V2-5656)].
 * **Sept 01, 2026** — VDB: Updated Headlights Assembly API [[V2-5705](https://empirepixel.atlassian.net/browse/V2-5705)].
 * **Sept 01, 2026** — VDB: Released Maintenance and Repair Estimate APIs in French [[V2-5701](https://empirepixel.atlassian.net/browse/V2-5701)].
 
