@@ -77,9 +77,12 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Aug 31, 2026** — CWA MVP: Released Members Area V2 with Garage support [[V2-5614](https://empirepixel.atlassian.net/browse/V2-5614)].
 * **Aug 31, 2026** — Integrated Decode API for classic VINs [[V2-5533](https://empirepixel.atlassian.net/browse/V2-5533)].
 * **Aug 25, 2026** — DVH: Optimized Core Web Vitals performance and page load metrics [[V2-5644](https://empirepixel.atlassian.net/browse/V2-5644)].
+* **Aug 21, 2026** — Classic Decoder: Resolved pending order handling issues [[V2-5575](https://empirepixel.atlassian.net/browse/V2-5575)].
 * **Aug 20, 2026** — SCC: Resolved App Store production application defects and store compliance issues [[V2-5675](https://empirepixel.atlassian.net/browse/V2-5675)].
 * **Aug 20, 2026** — MVL Blog: Ensured blog is in sync with latest blog updates [[V2-5685](https://empirepixel.atlassian.net/browse/V2-5685)].
 * **Aug 20, 2026** — Preview check and review sign-off [[V2-5683](https://empirepixel.atlassian.net/browse/V2-5683)].
 * **Aug 20, 2026** — Resolved general production issues across properties [[V2-5737](https://empirepixel.atlassian.net/browse/V2-5737)].
 * **Aug 20, 2026** — Configured changelog on all sites to route outside domain [[V2-5738](https://empirepixel.atlassian.net/browse/V2-5738)].
 * **Aug 18, 2026** — Fixed homepage redirect HTTP status code across production properties [[V2-5612](https://empirepixel.atlassian.net/browse/V2-5612)].
+* **Aug 17, 2026** — Shared Properties: Resolved pending order handling across properties [[V2-5575](https://empirepixel.atlassian.net/browse/V2-5575)].
+* **Aug 10, 2026** — CWA MVP: Resolved pending order handling issues [[V2-5575](https://empirepixel.atlassian.net/browse/V2-5575)].
