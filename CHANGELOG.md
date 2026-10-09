@@ -44,14 +44,16 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Sept 16, 2026** — Updated payload configuration to allow multiple child nestings and crawl support for header/footer components [[V2-5732](https://empirepixel.atlassian.net/browse/V2-5732)].
 * **Sept 10, 2026** — Fixed CWA MVP streaming flow for home page VIN decode, direct URL execution, Add to Garage, and Stripe credit checkout [[V2-5797](https://empirepixel.atlassian.net/browse/V2-5797)].
 * **Sept 08, 2026** — Released IVR Next.js service [[V2-5780](https://empirepixel.atlassian.net/browse/V2-5780)].
-* **Sept 08, 2026** — Fixed coupon state persistence, 360px pre-VIN layout overflow, and location-based revisit currency banner in Classic Decoder Web & App [[V2-5752](https://empirepixel.atlassian.net/browse/V2-5752)].
+* **Sept 04, 2026** — Classic Decoder: Updated US preview page layout and components [[V2-5791](https://empirepixel.atlassian.net/browse/V2-5791)].
 * **Sept 04, 2026** — Integrated Cloudflare clear cache API for automated cache purging [[V2-5792](https://empirepixel.atlassian.net/browse/V2-5792)].
 * **Sept 04, 2026** — Fixed email cache persistence across preview/checkout and debounced multi-click duplicate requests on Access Records CTA in SCC [[V2-5751](https://empirepixel.atlassian.net/browse/V2-5751)].
+* **Sept 03, 2026** — Fixed coupon state persistence, 360px pre-VIN layout overflow, and location-based revisit currency banner in Classic Decoder Web & App [[V2-5752](https://empirepixel.atlassian.net/browse/V2-5752)].
 * **Sept 02, 2026** — Fixed empty window sticker issue (missing colors and packages) in Classic Decoder [[V2-5656](https://empirepixel.atlassian.net/browse/V2-5656)].
 
 ---
 
 ### **August 2026**
+* **Aug 31, 2026** — CWA MVP: Released Members Area V2 with Garage support [[V2-5614](https://empirepixel.atlassian.net/browse/V2-5614)].
 * **Aug 31, 2026** — Integrated Decode API for classic VINs [[V2-5533](https://empirepixel.atlassian.net/browse/V2-5533)].
 * **Aug 20, 2026** — MVL Blog: Ensured blog is in sync with latest blog updates [[V2-5685](https://empirepixel.atlassian.net/browse/V2-5685)].
 * **Aug 20, 2026** — Preview check and review sign-off [[V2-5683](https://empirepixel.atlassian.net/browse/V2-5683)].
