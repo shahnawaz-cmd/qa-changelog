@@ -19,6 +19,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Oct 02, 2026** — VDB: Integrated Fluid Specs API [[V2-5848](https://empirepixel.atlassian.net/browse/V2-5848)].
 * **Oct 02, 2026** — Classic Decoder: Implemented SEO strategy updates [[V2-5611](https://empirepixel.atlassian.net/browse/V2-5611)].
 * **Oct 01, 2026** — Classic Decoder: Added Car Values (Classic) search by VIN and YMMT [[V2-5313](https://empirepixel.atlassian.net/browse/V2-5313)].
+* **Oct 01, 2026** — Classic Decoder: Completed classifieds defect fixes, integration, and deployment verification (DEV) [[V2-5312](https://empirepixel.atlassian.net/browse/V2-5312)].
 * **Oct 01, 2026** — KOD (Dodge): Migration to new codebase — verified payload and UI mapping with database [[V2-5754](https://empirepixel.atlassian.net/browse/V2-5754)].
 
 ---
