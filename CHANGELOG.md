@@ -86,3 +86,8 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Aug 18, 2026** — Fixed homepage redirect HTTP status code across production properties [[V2-5612](https://empirepixel.atlassian.net/browse/V2-5612)].
 * **Aug 17, 2026** — Shared Properties: Resolved pending order handling across properties [[V2-5575](https://empirepixel.atlassian.net/browse/V2-5575)].
 * **Aug 10, 2026** — CWA MVP: Resolved pending order handling issues [[V2-5575](https://empirepixel.atlassian.net/browse/V2-5575)].
+
+---
+
+### **July 2026**
+* **Jul 17, 2026** — Released preview page & checkout streaming flow across production properties [[V2-5503](https://empirepixel.atlassian.net/browse/V2-5503)].
