@@ -1,6 +1,6 @@
 # 📋 QA Production Changelog & Verification Logs
 
-This document tracks all QA-verified defect fixes, enhancements, and production release sign-offs across **Classic Decoder (CD)**, **CWA MVP**, **DVH**, **SCC**, **KOD (Dodge)**, **Toyota**, **VHREU**, **IVR**, and **MVL**.
+This document tracks all QA-verified defect fixes, enhancements, and production release sign-offs across **Classic Decoder (CD)**, **CWA MVP**, **DVH**, **SCC**, **KOD (Dodge)**, **Toyota**, **VHREU**, **IVR**, **MVL**, and **VDB**.
 
 ---
 
@@ -11,6 +11,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Oct 08, 2026** — Fixed currency not updating on preview page due to proxy issue in CWA MVP [[V2-5858](https://empirepixel.atlassian.net/browse/V2-5858)].
 * **Oct 08, 2026** — Fixed coupon desync issue and pending order handling for dual-tab transactions in SCC [[V2-5829](https://empirepixel.atlassian.net/browse/V2-5829)].
 * **Oct 07, 2026** — Toyota: Migration to new codebase — verified payload and UI mapping with database [[V2-5754](https://empirepixel.atlassian.net/browse/V2-5754)].
+* **Oct 06, 2026** — VDB: Updated sample in license plate API, removed legacy license plate endpoint, and added custom request handling [[V2-5710](https://empirepixel.atlassian.net/browse/V2-5710)].
 * **Oct 06, 2026** — Updated popup behavior on preview pages [[V2-5852](https://empirepixel.atlassian.net/browse/V2-5852)].
 * **Oct 05, 2026** — Fixed UVC Report QR URL.
 * **Oct 02, 2026** — Classic Decoder: Implemented SEO strategy updates [[V2-5611](https://empirepixel.atlassian.net/browse/V2-5611)].
@@ -33,6 +34,8 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Sept 29, 2026** — Fixed checkout page failure when navigating from pricing page in CWA [[V2-5851](https://empirepixel.atlassian.net/browse/V2-5851)].
 * **Sept 29, 2026** — Rolled out AI-generated URL logic across shared properties including DVH and KOD [[V2-5734](https://empirepixel.atlassian.net/browse/V2-5734)].
 * **Sept 29, 2026** — Fixed leading space in VIN breaking sticker generation flow (%20 in URL) across all production properties [[V2-5841](https://empirepixel.atlassian.net/browse/V2-5841)].
+* **Sept 24, 2026** — VDB: Integrated new Plate Decode API [[V2-5816](https://empirepixel.atlassian.net/browse/V2-5816)].
+* **Sept 24, 2026** — VDB: Created Premium History Report [[V2-5702](https://empirepixel.atlassian.net/browse/V2-5702)].
 * **Sept 24, 2026** — DVH: Added general database scrape and seed script [[V2-5782](https://empirepixel.atlassian.net/browse/V2-5782)].
 * **Sept 24, 2026** — Resolved missing referral (`ref`) attribution on DVH orders across PayPal and Stripe checkouts [[V2-5795](https://empirepixel.atlassian.net/browse/V2-5795)].
 * **Sept 23, 2026** — Resolved Apple Pay & Google Pay issues in DVH and shared properties [[V2-5824](https://empirepixel.atlassian.net/browse/V2-5824)].
@@ -55,6 +58,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Sept 04, 2026** — Fixed email cache persistence across preview/checkout and debounced multi-click duplicate requests on Access Records CTA in SCC [[V2-5751](https://empirepixel.atlassian.net/browse/V2-5751)].
 * **Sept 03, 2026** — Fixed coupon state persistence, 360px pre-VIN layout overflow, and location-based revisit currency banner in Classic Decoder Web & App [[V2-5752](https://empirepixel.atlassian.net/browse/V2-5752)].
 * **Sept 02, 2026** — Fixed empty window sticker issue (missing colors and packages) in Classic Decoder [[V2-5656](https://empirepixel.atlassian.net/browse/V2-5656)].
+* **Sept 01, 2026** — VDB: Released Maintenance and Repair Estimate APIs in French [[V2-5701](https://empirepixel.atlassian.net/browse/V2-5701)].
 
 ---
 
