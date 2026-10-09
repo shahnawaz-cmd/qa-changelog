@@ -1,0 +1,13 @@
+{
+  "name": "qa-changelog",
+  "version": "1.0.0",
+  "description": "QA Production Changelog & automated GitHub release synchronizer",
+  "main": "scripts/sync-releases.js",
+  "scripts": {
+    "sync": "node scripts/sync-releases.js",
+    "realign": "node scripts/sync-releases.js --realign"
+  },
+  "keywords": ["qa", "changelog", "releases"],
+  "author": "",
+  "license": "ISC"
+}
