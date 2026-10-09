@@ -5,6 +5,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 ---
 
 ### **October 2026**
+* **Oct 10, 2026** — Completed Haynes Data UI redesign across property dashboards [[V2-5681](https://empirepixel.atlassian.net/browse/V2-5681)].
 * **Oct 08, 2026** — CWA MVP: Set PayPal as default tab and Stripe as secondary from preview to checkout (currently applied on CNV) [[V2-5941](https://empirepixel.atlassian.net/browse/V2-5941)].
 * **Oct 08, 2026** — Completed DVH codebase migration and integration into shared properties repository [[V2-5893](https://empirepixel.atlassian.net/browse/V2-5893)].
 * **Oct 08, 2026** — Fixed currency not updating on preview page due to proxy issue in CWA MVP [[V2-5858](https://empirepixel.atlassian.net/browse/V2-5858)].
@@ -18,6 +19,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 ---
 
 ### **September 2026**
+* **Sept 30, 2026** — CNV: Released streaming flow preview page [[V2-5827](https://empirepixel.atlassian.net/browse/V2-5827)].
 * **Sept 30, 2026** — Migrated remaining DVH content pages [[V2-5843](https://empirepixel.atlassian.net/browse/V2-5843)].
 * **Sept 30, 2026** — Completed DVH blog migration [[V2-5842](https://empirepixel.atlassian.net/browse/V2-5842)].
 * **Sept 30, 2026** — Added new upsell images/assets for window sticker and report across all properties (streaming and non-streaming) [[V2-5846](https://empirepixel.atlassian.net/browse/V2-5846)].
