@@ -98,4 +98,5 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 ---
 
 ### **July 2026**
+* **Jul 21, 2026** — Handled Checkout API failures with automated retries and dedicated error fallback screens for Next.js properties (Jul 17–21) [[V2-5555](https://empirepixel.atlassian.net/browse/V2-5555)].
 * **Jul 17, 2026** — Released preview page & checkout streaming flow across production properties [[V2-5503](https://empirepixel.atlassian.net/browse/V2-5503)].
