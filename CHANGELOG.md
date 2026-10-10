@@ -87,6 +87,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Aug 20, 2026** — Resolved general production issues across properties [[V2-5737](https://empirepixel.atlassian.net/browse/V2-5737)].
 * **Aug 20, 2026** — Configured changelog on all sites to route outside domain [[V2-5738](https://empirepixel.atlassian.net/browse/V2-5738)].
 * **Aug 19, 2026** — Fixed preview streaming flow issues across production properties [[V2-5632](https://empirepixel.atlassian.net/browse/V2-5632)].
+* **Aug 18, 2026** — Classic Decoder: Implemented SEO strategy updates (Initial Release) [[V2-5611](https://empirepixel.atlassian.net/browse/V2-5611)].
 * **Aug 18, 2026** — Fixed homepage redirect HTTP status code across production properties [[V2-5612](https://empirepixel.atlassian.net/browse/V2-5612)].
 * **Aug 17, 2026** — Fixed coupon banner display and plan swap logic across production properties [[V2-5664](https://empirepixel.atlassian.net/browse/V2-5664)].
 * **Aug 17, 2026** — Shared Properties: Resolved pending order handling across properties [[V2-5575](https://empirepixel.atlassian.net/browse/V2-5575)].
