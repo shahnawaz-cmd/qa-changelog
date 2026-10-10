@@ -90,6 +90,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Aug 18, 2026** — Fixed homepage redirect HTTP status code across production properties [[V2-5612](https://empirepixel.atlassian.net/browse/V2-5612)].
 * **Aug 17, 2026** — Fixed coupon banner display and plan swap logic across production properties [[V2-5664](https://empirepixel.atlassian.net/browse/V2-5664)].
 * **Aug 17, 2026** — Shared Properties: Resolved pending order handling across properties [[V2-5575](https://empirepixel.atlassian.net/browse/V2-5575)].
+* **Aug 15, 2026** — VNCA: Completed production deployment and post-release verification [[V2-5625](https://empirepixel.atlassian.net/browse/V2-5625)].
 * **Aug 11, 2026** — SEO Enhancement: Removed animation effects across production properties [[V2-5639](https://empirepixel.atlassian.net/browse/V2-5639)].
 * **Aug 10, 2026** — CWA MVP: Resolved pending order handling issues [[V2-5575](https://empirepixel.atlassian.net/browse/V2-5575)].
 
