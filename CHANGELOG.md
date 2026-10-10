@@ -76,6 +76,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 ### **August 2026**
 * **Aug 31, 2026** — CWA MVP: Released Members Area V2 with Garage support [[V2-5614](https://empirepixel.atlassian.net/browse/V2-5614)].
 * **Aug 31, 2026** — Integrated Decode API for classic VINs [[V2-5533](https://empirepixel.atlassian.net/browse/V2-5533)].
+* **Aug 26, 2026** — VHREU & VSR: Completed payload and client isolation with production deployment [[V2-5549](https://empirepixel.atlassian.net/browse/V2-5549)].
 * **Aug 26, 2026** — Handled AI-generated URL redirection logic across production properties [[V2-5636](https://empirepixel.atlassian.net/browse/V2-5636)].
 * **Aug 26, 2026** — Fixed Help page, request a refund flow, and subscription management issues in Members Area [[V2-5638](https://empirepixel.atlassian.net/browse/V2-5638)].
 * **Aug 26, 2026** — Resolved PayPal pending order issue caused by webhook misconfiguration [[V2-5668](https://empirepixel.atlassian.net/browse/V2-5668)].
