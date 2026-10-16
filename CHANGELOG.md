@@ -5,6 +5,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 ---
 
 ### **October 2026**
+* **Oct 16, 2026** — KOD (Alfa Romeo, Chevrolet, Ford by VIN): Migration to new codebase [[V2-5901](https://empirepixel.atlassian.net/browse/V2-5901)].
 * **Oct 16, 2026** — CWA MVP: Fixed sticker generate issue for Theme V2 [[V2-5922](https://empirepixel.atlassian.net/browse/V2-5922)].
 * **Oct 15, 2026** — KOD (Kia, Lexus, Porsche): Migration to new codebase [[V2-5901](https://empirepixel.atlassian.net/browse/V2-5901)].
 * **Oct 10, 2026** — Completed Haynes Data UI redesign across property dashboards [[V2-5681](https://empirepixel.atlassian.net/browse/V2-5681)].
