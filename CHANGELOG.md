@@ -9,6 +9,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Nov 16, 2026** — Classic Decoder: Fixed incorrect VIN dropdown on preview page [[V2-5962](https://empirepixel.atlassian.net/browse/V2-5962)].
 * **Nov 11, 2026** — SCC: Integrated new preview page & streaming flow [[V2-5894](https://empirepixel.atlassian.net/browse/V2-5894)].
 * **Nov 10, 2026** — SCC: Removed basic credit purchase flow from members area, keeping generation only [[V2-5919](https://empirepixel.atlassian.net/browse/V2-5919)].
+* **Nov 04, 2026** — Panther: Supplemented missing features data [[V2-5888](https://empirepixel.atlassian.net/browse/V2-5888)].
 
 ---
 
