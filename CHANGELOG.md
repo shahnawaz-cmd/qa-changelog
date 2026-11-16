@@ -12,6 +12,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 ---
 
 ### **October 2026**
+* **Oct 30, 2026** — RepairPal: Data preprocess, format & upload to DB [[V2-5950](https://empirepixel.atlassian.net/browse/V2-5950)].
 * **Oct 30, 2026** — DVH: App release [[V2-5914](https://empirepixel.atlassian.net/browse/V2-5914)].
 * **Oct 29, 2026** — CNV: App release [[V2-5915](https://empirepixel.atlassian.net/browse/V2-5915)].
 * **Oct 27, 2026** — SCC: App release (payment library update & bug fixes) [[V2-5916](https://empirepixel.atlassian.net/browse/V2-5916)].
