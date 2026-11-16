@@ -11,6 +11,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Nov 11, 2026** — Cardatabases: Updates from Sergey [[V2-5973](https://empirepixel.atlassian.net/browse/V2-5973)].
 * **Nov 11, 2026** — SCC: Integrated new preview page & streaming flow [[V2-5894](https://empirepixel.atlassian.net/browse/V2-5894)].
 * **Nov 10, 2026** — SCC: Removed basic credit purchase flow from members area, keeping generation only [[V2-5919](https://empirepixel.atlassian.net/browse/V2-5919)].
+* **Nov 06, 2026** — VDB: Migrated to Next.js with Payload in new codebase [[V2-5959](https://empirepixel.atlassian.net/browse/V2-5959)].
 * **Nov 04, 2026** — Panther: Supplemented missing features data [[V2-5888](https://empirepixel.atlassian.net/browse/V2-5888)].
 
 ---
