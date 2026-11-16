@@ -21,6 +21,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Oct 30, 2026** — DVH: App release [[V2-5914](https://empirepixel.atlassian.net/browse/V2-5914)].
 * **Oct 29, 2026** — CNV: App release [[V2-5915](https://empirepixel.atlassian.net/browse/V2-5915)].
 * **Oct 27, 2026** — SCC: App release (payment library update & bug fixes) [[V2-5916](https://empirepixel.atlassian.net/browse/V2-5916)].
+* **Oct 20, 2026** — DataFast setup for main properties [[V2-5951](https://empirepixel.atlassian.net/browse/V2-5951)].
 * **Oct 20, 2026** — Updated EV API for additional files collected [[V2-5892](https://empirepixel.atlassian.net/browse/V2-5892)].
 * **Oct 19, 2026** — Cardatabases (CDB): Added several samples for cars data [[V2-5889](https://empirepixel.atlassian.net/browse/V2-5889)].
 * **Oct 16, 2026** — KOD (Alfa Romeo, Chevrolet, Ford by VIN): Migration to new codebase [[V2-5901](https://empirepixel.atlassian.net/browse/V2-5901)].
