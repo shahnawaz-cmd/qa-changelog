@@ -22,6 +22,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Oct 16, 2026** — CWA MVP: Fixed sticker generate issue for Theme V2 [[V2-5922](https://empirepixel.atlassian.net/browse/V2-5922)].
 * **Oct 15, 2026** — KOD (Kia, Lexus, Porsche): Migration to new codebase [[V2-5901](https://empirepixel.atlassian.net/browse/V2-5901)].
 * **Oct 13, 2026** — VNCA: Set static CAD price [[VF-14305](https://empirepixel.atlassian.net/browse/VF-14305)].
+* **Oct 12, 2026** — Classic Decoder: Year + Year/Make pipeline [[V2-5891](https://empirepixel.atlassian.net/browse/V2-5891)].
 * **Oct 10, 2026** — Completed Haynes Data UI redesign across property dashboards [[V2-5681](https://empirepixel.atlassian.net/browse/V2-5681)].
 * **Oct 08, 2026** — CWA MVP: Set PayPal as default tab and Stripe as secondary from preview to checkout (currently applied on CNV) [[V2-5941](https://empirepixel.atlassian.net/browse/V2-5941)].
 * **Oct 08, 2026** — Completed DVH codebase migration and integration into shared properties repository [[V2-5893](https://empirepixel.atlassian.net/browse/V2-5893)].
