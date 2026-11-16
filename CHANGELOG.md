@@ -7,6 +7,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 ### **November 2026**
 * **Nov 16, 2026** — Changed maintenance dataset from Firestone to Edmunds [[V2-5947](https://empirepixel.atlassian.net/browse/V2-5947)].
 * **Nov 16, 2026** — Classic Decoder: Fixed incorrect VIN dropdown on preview page [[V2-5962](https://empirepixel.atlassian.net/browse/V2-5962)].
+* **Nov 11, 2026** — KOD: Deployed 14 KODs (ferrariwindowsticker.com, landroverwindowsticker.com, bentleywindowsticker.com, nissanwindowsticker.com, lamborghiniwindowsticker.com, astonmartinwindowsticker.com, harleydavidsonwindowsticker.com, mazdawindowsticker.com, genesiswindowsticker.com, rollsroycewindowsticker.com, rangeroverwindowsticker.com, jaguarwindowsticker.com, teslawindowstickers.com) [[V2-5961](https://empirepixel.atlassian.net/browse/V2-5961)].
 * **Nov 11, 2026** — Cardatabases: Updates from Sergey [[V2-5973](https://empirepixel.atlassian.net/browse/V2-5973)].
 * **Nov 11, 2026** — SCC: Integrated new preview page & streaming flow [[V2-5894](https://empirepixel.atlassian.net/browse/V2-5894)].
 * **Nov 10, 2026** — SCC: Removed basic credit purchase flow from members area, keeping generation only [[V2-5919](https://empirepixel.atlassian.net/browse/V2-5919)].
