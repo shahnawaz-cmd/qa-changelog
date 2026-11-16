@@ -4,7 +4,16 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 
 ---
 
+### **November 2026**
+* **Nov 16, 2026** — Classic Decoder: Fixed incorrect VIN dropdown on preview page [[V2-5962](https://empirepixel.atlassian.net/browse/V2-5962)].
+* **Nov 10, 2026** — SCC: Removed basic credit purchase flow from members area, keeping generation only [[V2-5919](https://empirepixel.atlassian.net/browse/V2-5919)].
+
+---
+
 ### **October 2026**
+* **Oct 30, 2026** — DVH: App release [[V2-5914](https://empirepixel.atlassian.net/browse/V2-5914)].
+* **Oct 29, 2026** — CNV: App release [[V2-5915](https://empirepixel.atlassian.net/browse/V2-5915)].
+* **Oct 27, 2026** — SCC: App release (payment library update & bug fixes) [[V2-5916](https://empirepixel.atlassian.net/browse/V2-5916)].
 * **Oct 16, 2026** — KOD (Alfa Romeo, Chevrolet, Ford by VIN): Migration to new codebase [[V2-5901](https://empirepixel.atlassian.net/browse/V2-5901)].
 * **Oct 16, 2026** — CWA MVP: Fixed sticker generate issue for Theme V2 [[V2-5922](https://empirepixel.atlassian.net/browse/V2-5922)].
 * **Oct 15, 2026** — KOD (Kia, Lexus, Porsche): Migration to new codebase [[V2-5901](https://empirepixel.atlassian.net/browse/V2-5901)].
