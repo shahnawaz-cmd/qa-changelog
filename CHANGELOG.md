@@ -22,7 +22,7 @@ This document tracks all QA-verified defect fixes, enhancements, and production 
 * **Oct 10, 2026** — Completed Haynes Data UI redesign across property dashboards [[V2-5681](https://empirepixel.atlassian.net/browse/V2-5681)].
 * **Oct 08, 2026** — CWA MVP: Set PayPal as default tab and Stripe as secondary from preview to checkout (currently applied on CNV) [[V2-5941](https://empirepixel.atlassian.net/browse/V2-5941)].
 * **Oct 08, 2026** — Completed DVH codebase migration and integration into shared properties repository [[V2-5893](https://empirepixel.atlassian.net/browse/V2-5893)].
-* **Oct 08, 2026** — Fixed currency not updating on preview page due to proxy issue in CWA MVP [[V2-5858](https://empirepixel.atlassian.net/browse/V2-5858)].
+* **Oct 08, 2026** — CWA MVP (PV, CNV): Fixed currency not updating on preview page for main domain due to proxy issue (Severity: High; DEV & PROD) [[V2-5858](https://empirepixel.atlassian.net/browse/V2-5858)].
 * **Oct 08, 2026** — Fixed coupon desync issue and pending order handling for dual-tab transactions in SCC [[V2-5829](https://empirepixel.atlassian.net/browse/V2-5829)].
 * **Oct 07, 2026** — Toyota: Migration to new codebase — verified payload and UI mapping with database [[V2-5754](https://empirepixel.atlassian.net/browse/V2-5754)].
 * **Oct 06, 2026** — VDB: Made Engine Oil API publicly accessible with updated documentation [[V2-5703](https://empirepixel.atlassian.net/browse/V2-5703)].
